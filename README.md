@@ -34,3 +34,4 @@
   * 12.5 [생성적 적대 신경망 소개](chapter12_part05_gans.ipynb)
 * 13장 [실전 문제 해결을 위한 모범 사례](chapter13_best-practices-for-the-real-world.ipynb)
 * 14장 [결론](chapter14_conclusions.ipynb)
+# DLwithPy_Practice
